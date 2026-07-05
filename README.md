@@ -26,7 +26,7 @@ public class PyaePhyoAung {
     };
 
     String currentlyLearning =
-        "Docker, Microservices and System Design";
+        "Advanced Java, Spring, Spring Boot, React, Docker, Microservices and System Design.";
 
     String passion =
         "Building clean, scalable, and production-ready web applications";
@@ -41,7 +41,7 @@ I'm a passionate Full-Stack Developer who enjoys building modern web application
 I enjoy designing clean backend architectures, developing intuitive user interfaces, and continuously improving my software engineering skills through hands-on projects.
 
 - 🚀 Building production-ready full-stack applications
-🌱 Learning Advanced Java, Spring, Spring Boot, React, Docker, Microservices, and System Design.
+- 🌱 Studying Full-Stack Web Development with a focus on Java, Spring Boot, and React.
 - 🧠 Practicing Data Structures & Algorithms
 - 🤝 Open to collaborating on open-source and real-world projects
 - 🎯 Working toward becoming a professional Software Engineer
