@@ -26,7 +26,7 @@ public class PyaePhyoAung {
     };
 
     String currentlyLearning =
-        "Docker, Microservices, AWS, and System Design";
+        "Docker, Microservices and System Design";
 
     String passion =
         "Building clean, scalable, and production-ready web applications";
