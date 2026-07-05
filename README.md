@@ -123,8 +123,6 @@ I enjoy designing clean backend architectures, developing intuitive user interfa
 
 ---
 
----
-
 <div align="center">
 
 ### 🚀 Thanks for visiting my profile!
