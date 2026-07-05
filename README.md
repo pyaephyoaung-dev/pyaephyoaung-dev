@@ -17,8 +17,6 @@
 ```java
 public class PyaePhyoAung {
 
-    String role = "Aspiring Full-Stack Developer";
-
     String[] techStack = {
         "Java",
         "Spring Boot",
@@ -27,9 +25,14 @@ public class PyaePhyoAung {
         "MySQL"
     };
 
-    String currentlyLearning = "Docker, Microservices and System Design";
+    String currentlyLearning =
+        "Docker, Microservices, AWS, and System Design";
 
-    String goal = "Build scalable software that creates real-world impact.";
+    String passion =
+        "Building clean, scalable, and production-ready web applications";
+
+    String goal =
+        "Grow as a Full-Stack Software Engineer and build software that creates real-world impact.";
 }
 ```
 
