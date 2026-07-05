@@ -38,7 +38,7 @@ I'm a passionate Full-Stack Developer who enjoys building modern web application
 I enjoy designing clean backend architectures, developing intuitive user interfaces, and continuously improving my software engineering skills through hands-on projects.
 
 - 🚀 Building production-ready full-stack applications
-- 🌱 Learning Docker, Microservices, AWS, and System Design
+🌱 Learning Advanced Java, Spring, Spring Boot, React, Docker, Microservices, and System Design.
 - 🧠 Practicing Data Structures & Algorithms
 - 🤝 Open to collaborating on open-source and real-world projects
 - 🎯 Working toward becoming a professional Software Engineer
@@ -136,8 +136,12 @@ I enjoy designing clean backend architectures, developing intuitive user interfa
 
 ---
 
+---
+
 <div align="center">
 
-### *"Clean code. Continuous learning. Meaningful solutions."*
+### 🚀 Thanks for visiting my profile!
+
+*Feel free to explore my repositories, check out my projects, and connect with me.*
 
 </div>
