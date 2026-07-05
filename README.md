@@ -76,7 +76,7 @@ I enjoy designing clean backend architectures, developing intuitive user interfa
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
@@ -100,11 +100,12 @@ I enjoy designing clean backend architectures, developing intuitive user interfa
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pyaephyoaung-dev&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pyaephyoaung-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyaephyoaung-dev&layout=compact&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyaephyoaung-dev&layout=compact&theme=tokyonight&hide_border=true"/>
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=pyaephyoaung-dev&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=pyaephyoaung-dev&theme=tokyonight&hide_border=true" />
 
 </div>
 
